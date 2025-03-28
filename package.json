@@ -1,0 +1,31 @@
+{
+	"name": "@flyzar73/discordjs-utility",
+	"version": "1.0.1",
+	"description": "",
+	"exports": {
+		".": {
+			"require": {
+				"default": "./index.js"
+			}
+		}
+	},
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "github.com:flyzar73/discordjs-utility.git"
+	},
+	"keywords": [
+		"discord",
+		"discordapp",
+		"discordjs",
+		"node",
+		"pagination",
+		"typescript",
+		"npm"
+	],
+	"license": "ISC",
+	"author": "flyzar73 <flyzar73@outlook.fr>"
+}
